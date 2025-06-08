@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Amir Abbas Ajilchi</h1>
+<h1 align="center">Hi there 👋, I'm Amir Abas Ajilchi</h1>
 
 <p align="center">
 🎓 Undergraduate Electrical Engineering Student at University of Tehran<br>
